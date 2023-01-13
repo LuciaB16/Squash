@@ -7,4 +7,5 @@ public class Main {
     //Commit 2 main
 
     //Commit squash
+    //Commit squash 2
 }
